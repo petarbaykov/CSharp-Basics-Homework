@@ -1,0 +1,6 @@
+D:\Projects-SoftUni\Intro-Programing-Homework\03.PrintNumbers\bin\Debug\03.PrintNumbers.exe.config
+D:\Projects-SoftUni\Intro-Programing-Homework\03.PrintNumbers\bin\Debug\03.PrintNumbers.exe
+D:\Projects-SoftUni\Intro-Programing-Homework\03.PrintNumbers\bin\Debug\03.PrintNumbers.pdb
+D:\Projects-SoftUni\Intro-Programing-Homework\03.PrintNumbers\obj\Debug\03.PrintNumbers.csprojResolveAssemblyReference.cache
+D:\Projects-SoftUni\Intro-Programing-Homework\03.PrintNumbers\obj\Debug\03.PrintNumbers.exe
+D:\Projects-SoftUni\Intro-Programing-Homework\03.PrintNumbers\obj\Debug\03.PrintNumbers.pdb

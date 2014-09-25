@@ -1,0 +1,5 @@
+D:\Projects-SoftUni\Intro-Programing-Homework\10.PrintLongSequence\bin\Debug\10.PrintLongSequence.exe.config
+D:\Projects-SoftUni\Intro-Programing-Homework\10.PrintLongSequence\bin\Debug\10.PrintLongSequence.exe
+D:\Projects-SoftUni\Intro-Programing-Homework\10.PrintLongSequence\bin\Debug\10.PrintLongSequence.pdb
+D:\Projects-SoftUni\Intro-Programing-Homework\10.PrintLongSequence\obj\Debug\10.PrintLongSequence.exe
+D:\Projects-SoftUni\Intro-Programing-Homework\10.PrintLongSequence\obj\Debug\10.PrintLongSequence.pdb
