@@ -1,0 +1,5 @@
+D:\Projects-SoftUni\Primitive-Data-Types-And-Variables-Homework\03.VariableInHexidemicalFormat\bin\Debug\03.VariableInHexidemicalFormat.exe.config
+D:\Projects-SoftUni\Primitive-Data-Types-And-Variables-Homework\03.VariableInHexidemicalFormat\bin\Debug\03.VariableInHexidemicalFormat.exe
+D:\Projects-SoftUni\Primitive-Data-Types-And-Variables-Homework\03.VariableInHexidemicalFormat\bin\Debug\03.VariableInHexidemicalFormat.pdb
+D:\Projects-SoftUni\Primitive-Data-Types-And-Variables-Homework\03.VariableInHexidemicalFormat\obj\Debug\03.VariableInHexidemicalFormat.exe
+D:\Projects-SoftUni\Primitive-Data-Types-And-Variables-Homework\03.VariableInHexidemicalFormat\obj\Debug\03.VariableInHexidemicalFormat.pdb

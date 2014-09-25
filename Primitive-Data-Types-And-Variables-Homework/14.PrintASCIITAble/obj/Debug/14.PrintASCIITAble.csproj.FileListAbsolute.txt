@@ -1,0 +1,5 @@
+D:\Projects-SoftUni\Primitive-Data-Types-And-Variables-Homework\14.PrintASCIITAble\bin\Debug\14.PrintASCIITAble.exe.config
+D:\Projects-SoftUni\Primitive-Data-Types-And-Variables-Homework\14.PrintASCIITAble\bin\Debug\14.PrintASCIITAble.exe
+D:\Projects-SoftUni\Primitive-Data-Types-And-Variables-Homework\14.PrintASCIITAble\bin\Debug\14.PrintASCIITAble.pdb
+D:\Projects-SoftUni\Primitive-Data-Types-And-Variables-Homework\14.PrintASCIITAble\obj\Debug\14.PrintASCIITAble.exe
+D:\Projects-SoftUni\Primitive-Data-Types-And-Variables-Homework\14.PrintASCIITAble\obj\Debug\14.PrintASCIITAble.pdb

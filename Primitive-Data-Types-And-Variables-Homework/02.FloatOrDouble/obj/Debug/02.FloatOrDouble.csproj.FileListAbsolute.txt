@@ -1,0 +1,5 @@
+D:\Projects-SoftUni\Primitive-Data-Types-And-Variables-Homework\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
+D:\Projects-SoftUni\Primitive-Data-Types-And-Variables-Homework\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe
+D:\Projects-SoftUni\Primitive-Data-Types-And-Variables-Homework\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.pdb
+D:\Projects-SoftUni\Primitive-Data-Types-And-Variables-Homework\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
+D:\Projects-SoftUni\Primitive-Data-Types-And-Variables-Homework\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb

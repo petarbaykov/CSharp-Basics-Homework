@@ -1,0 +1,5 @@
+D:\Projects-SoftUni\Primitive-Data-Types-And-Variables-Homework\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe.config
+D:\Projects-SoftUni\Primitive-Data-Types-And-Variables-Homework\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe
+D:\Projects-SoftUni\Primitive-Data-Types-And-Variables-Homework\13.ComparingFloats\bin\Debug\13.ComparingFloats.pdb
+D:\Projects-SoftUni\Primitive-Data-Types-And-Variables-Homework\13.ComparingFloats\obj\Debug\13.ComparingFloats.exe
+D:\Projects-SoftUni\Primitive-Data-Types-And-Variables-Homework\13.ComparingFloats\obj\Debug\13.ComparingFloats.pdb

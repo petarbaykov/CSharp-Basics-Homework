@@ -1,0 +1,5 @@
+D:\Projects-SoftUni\Primitive-Data-Types-And-Variables-Homework\07.QuotesAndString\bin\Debug\07.QuotesAndString.exe.config
+D:\Projects-SoftUni\Primitive-Data-Types-And-Variables-Homework\07.QuotesAndString\bin\Debug\07.QuotesAndString.exe
+D:\Projects-SoftUni\Primitive-Data-Types-And-Variables-Homework\07.QuotesAndString\bin\Debug\07.QuotesAndString.pdb
+D:\Projects-SoftUni\Primitive-Data-Types-And-Variables-Homework\07.QuotesAndString\obj\Debug\07.QuotesAndString.exe
+D:\Projects-SoftUni\Primitive-Data-Types-And-Variables-Homework\07.QuotesAndString\obj\Debug\07.QuotesAndString.pdb
