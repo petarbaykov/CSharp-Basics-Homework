@@ -1,0 +1,6 @@
+D:\Projects-SoftUni\TronGame\TronGame\bin\Debug\TronGame.exe.config
+D:\Projects-SoftUni\TronGame\TronGame\bin\Debug\TronGame.exe
+D:\Projects-SoftUni\TronGame\TronGame\bin\Debug\TronGame.pdb
+D:\Projects-SoftUni\TronGame\TronGame\obj\Debug\TronGame.csprojResolveAssemblyReference.cache
+D:\Projects-SoftUni\TronGame\TronGame\obj\Debug\TronGame.exe
+D:\Projects-SoftUni\TronGame\TronGame\obj\Debug\TronGame.pdb
