@@ -1,0 +1,5 @@
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\13.CheckABitInAGivenPosition\bin\Debug\13.CheckABitInAGivenPosition.exe.config
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\13.CheckABitInAGivenPosition\bin\Debug\13.CheckABitInAGivenPosition.exe
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\13.CheckABitInAGivenPosition\bin\Debug\13.CheckABitInAGivenPosition.pdb
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\13.CheckABitInAGivenPosition\obj\Debug\13.CheckABitInAGivenPosition.exe
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\13.CheckABitInAGivenPosition\obj\Debug\13.CheckABitInAGivenPosition.pdb

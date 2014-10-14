@@ -1,0 +1,5 @@
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe.config
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.pdb
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb

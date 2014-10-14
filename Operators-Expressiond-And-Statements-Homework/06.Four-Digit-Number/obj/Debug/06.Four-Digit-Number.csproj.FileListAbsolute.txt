@@ -1,0 +1,6 @@
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\06.Four-Digit-Number\bin\Debug\06.Four-Digit-Number.exe.config
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\06.Four-Digit-Number\bin\Debug\06.Four-Digit-Number.exe
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\06.Four-Digit-Number\bin\Debug\06.Four-Digit-Number.pdb
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\06.Four-Digit-Number\obj\Debug\06.Four-Digit-Number.exe
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\06.Four-Digit-Number\obj\Debug\06.Four-Digit-Number.pdb
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\06.Four-Digit-Number\obj\Debug\06.Four-Digit-Number.csprojResolveAssemblyReference.cache

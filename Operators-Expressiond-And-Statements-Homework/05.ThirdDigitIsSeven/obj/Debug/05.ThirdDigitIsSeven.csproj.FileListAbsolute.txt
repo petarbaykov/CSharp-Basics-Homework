@@ -1,0 +1,5 @@
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.exe.config
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.exe
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.pdb
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.exe
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.pdb

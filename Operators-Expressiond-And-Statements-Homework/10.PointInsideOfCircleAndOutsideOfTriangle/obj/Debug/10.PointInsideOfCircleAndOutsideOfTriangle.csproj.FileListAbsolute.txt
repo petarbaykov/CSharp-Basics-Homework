@@ -1,0 +1,5 @@
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\10.PointInsideOfCircleAndOutsideOfTriangle\bin\Debug\10.PointInsideOfCircleAndOutsideOfTriangle.exe.config
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\10.PointInsideOfCircleAndOutsideOfTriangle\bin\Debug\10.PointInsideOfCircleAndOutsideOfTriangle.exe
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\10.PointInsideOfCircleAndOutsideOfTriangle\bin\Debug\10.PointInsideOfCircleAndOutsideOfTriangle.pdb
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\10.PointInsideOfCircleAndOutsideOfTriangle\obj\Debug\10.PointInsideOfCircleAndOutsideOfTriangle.exe
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\10.PointInsideOfCircleAndOutsideOfTriangle\obj\Debug\10.PointInsideOfCircleAndOutsideOfTriangle.pdb

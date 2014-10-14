@@ -1,0 +1,6 @@
+D:\Projects-SoftUni\Console-Input-Output-Homework\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe.config
+D:\Projects-SoftUni\Console-Input-Output-Homework\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe
+D:\Projects-SoftUni\Console-Input-Output-Homework\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.pdb
+D:\Projects-SoftUni\Console-Input-Output-Homework\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.exe
+D:\Projects-SoftUni\Console-Input-Output-Homework\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.pdb
+D:\Projects-SoftUni\Console-Input-Output-Homework\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.csprojResolveAssemblyReference.cache

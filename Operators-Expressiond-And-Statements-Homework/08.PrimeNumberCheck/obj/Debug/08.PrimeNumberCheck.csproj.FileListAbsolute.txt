@@ -1,0 +1,6 @@
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe.config
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.pdb
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.csprojResolveAssemblyReference.cache
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.exe
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.pdb

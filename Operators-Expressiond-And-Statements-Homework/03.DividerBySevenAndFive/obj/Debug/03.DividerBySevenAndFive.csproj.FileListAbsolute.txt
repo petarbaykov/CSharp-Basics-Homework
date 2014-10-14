@@ -1,0 +1,5 @@
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\03.DividerBySevenAndFive\bin\Debug\03.DividerBySevenAndFive.exe.config
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\03.DividerBySevenAndFive\bin\Debug\03.DividerBySevenAndFive.exe
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\03.DividerBySevenAndFive\bin\Debug\03.DividerBySevenAndFive.pdb
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\03.DividerBySevenAndFive\obj\Debug\03.DividerBySevenAndFive.exe
+D:\Projects-SoftUni\Operators-Expressiond-And-Statements-Homework\03.DividerBySevenAndFive\obj\Debug\03.DividerBySevenAndFive.pdb

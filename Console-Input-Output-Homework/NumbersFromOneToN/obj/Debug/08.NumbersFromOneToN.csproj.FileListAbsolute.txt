@@ -1,0 +1,6 @@
+D:\Projects-SoftUni\Console-Input-Output-Homework\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe.config
+D:\Projects-SoftUni\Console-Input-Output-Homework\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe
+D:\Projects-SoftUni\Console-Input-Output-Homework\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.pdb
+D:\Projects-SoftUni\Console-Input-Output-Homework\NumbersFromOneToN\obj\Debug\08.NumbersFromOneToN.csprojResolveAssemblyReference.cache
+D:\Projects-SoftUni\Console-Input-Output-Homework\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.exe
+D:\Projects-SoftUni\Console-Input-Output-Homework\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.pdb

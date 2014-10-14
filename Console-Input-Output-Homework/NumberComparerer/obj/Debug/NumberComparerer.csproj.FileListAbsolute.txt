@@ -1,0 +1,6 @@
+D:\Projects-SoftUni\Console-Input-Output-Homework\NumberComparerer\bin\Debug\NumberComparerer.exe.config
+D:\Projects-SoftUni\Console-Input-Output-Homework\NumberComparerer\bin\Debug\NumberComparerer.exe
+D:\Projects-SoftUni\Console-Input-Output-Homework\NumberComparerer\bin\Debug\NumberComparerer.pdb
+D:\Projects-SoftUni\Console-Input-Output-Homework\NumberComparerer\obj\Debug\NumberComparerer.csprojResolveAssemblyReference.cache
+D:\Projects-SoftUni\Console-Input-Output-Homework\NumberComparerer\obj\Debug\NumberComparerer.exe
+D:\Projects-SoftUni\Console-Input-Output-Homework\NumberComparerer\obj\Debug\NumberComparerer.pdb

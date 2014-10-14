@@ -1,0 +1,6 @@
+D:\Projects-SoftUni\JustCars\JustCars\bin\Debug\JustCars.exe.config
+D:\Projects-SoftUni\JustCars\JustCars\bin\Debug\JustCars.exe
+D:\Projects-SoftUni\JustCars\JustCars\bin\Debug\JustCars.pdb
+D:\Projects-SoftUni\JustCars\JustCars\obj\Debug\JustCars.csprojResolveAssemblyReference.cache
+D:\Projects-SoftUni\JustCars\JustCars\obj\Debug\JustCars.exe
+D:\Projects-SoftUni\JustCars\JustCars\obj\Debug\JustCars.pdb

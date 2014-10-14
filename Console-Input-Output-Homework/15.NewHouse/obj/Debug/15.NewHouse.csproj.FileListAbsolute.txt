@@ -1,0 +1,6 @@
+D:\Projects-SoftUni\Console-Input-Output-Homework\15.NewHouse\bin\Debug\15.NewHouse.exe.config
+D:\Projects-SoftUni\Console-Input-Output-Homework\15.NewHouse\obj\Debug\15.NewHouse.csprojResolveAssemblyReference.cache
+D:\Projects-SoftUni\Console-Input-Output-Homework\15.NewHouse\bin\Debug\15.NewHouse.exe
+D:\Projects-SoftUni\Console-Input-Output-Homework\15.NewHouse\bin\Debug\15.NewHouse.pdb
+D:\Projects-SoftUni\Console-Input-Output-Homework\15.NewHouse\obj\Debug\15.NewHouse.exe
+D:\Projects-SoftUni\Console-Input-Output-Homework\15.NewHouse\obj\Debug\15.NewHouse.pdb
